@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "b_functions"
+name = "ding_machine"
 version = "0.1.0"
